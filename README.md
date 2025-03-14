@@ -1,7 +1,7 @@
 # Nexus API Wrapper 🚀 (Beta)
 
 ⚠️ **This version is still in beta!** It may contain bugs and unexpected changes.
-We look forward to your feedback to improve the final version. Please report comments, suggestions and issues in [Issues](https:/Yo3ef777/nexus-api-wrapper/github.com//issues). 🙌
+We look forward to your feedback to improve the final version. Please report comments, suggestions and issues in [Issues](https://github.com/Yo3ef777/nexus-api-wrapper/issues). 🙌
 
 A powerful and flexible TypeScript library for interacting with REST, GraphQL, and WebSocket APIs. Features include automatic retries, caching, and comprehensive error handling.
 
