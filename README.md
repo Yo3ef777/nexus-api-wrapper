@@ -20,7 +20,7 @@ npm install universal-api-wrapper
 ## Quick Start
 
 ```typescript
-import UniversalAPIWrapper from '@yosef/universal-api-wrapper';
+import UniversalAPIWrapper from 'universal-api-wrapper';
 
 // Create a new instance
 const api = new UniversalAPIWrapper({
