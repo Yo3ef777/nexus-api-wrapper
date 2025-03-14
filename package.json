@@ -62,12 +62,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/universal-api-wrapper.git"
+    "url": "git+https://github.com/Yo3ef777/universal-api-wrapper.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/universal-api-wrapper/issues"
+    "url": "https://github.com/Yo3ef777/universal-api-wrapper/issues"
   },
-  "homepage": "https://github.com/yourusername/universal-api-wrapper#readme",
+  "homepage": "https://github.com/Yo3ef777/universal-api-wrapper#readme",
   "engines": {
     "node": ">=14.0.0"
   }
