@@ -14,7 +14,7 @@ A powerful and flexible TypeScript library for interacting with REST, GraphQL, a
 ## Installation
 
 ```bash
-npm install @yosef/universal-api-wrapper
+npm install universal-api-wrapper
 ```
 
 ## Quick Start
