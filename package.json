@@ -1,5 +1,5 @@
 {
-  "name": "universal-api-wrapper",
+  "name": "nexusAPI",
   "version": "1.0.0",
   "main": "dist/app.js",
   "type": "module",
@@ -62,12 +62,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Yo3ef777/universal-api-wrapper.git"
+    "url": "git+https://github.com/Yo3ef777/nexusAPI.git"
   },
   "bugs": {
-    "url": "https://github.com/Yo3ef777/universal-api-wrapper/issues"
+    "url": "https://github.com/Yo3ef777/nexusAPI/issues"
   },
-  "homepage": "https://github.com/Yo3ef777/universal-api-wrapper#readme",
+  "homepage": "https://github.com/Yo3ef777/nexusAPI#readme",
   "engines": {
     "node": ">=14.0.0"
   }
