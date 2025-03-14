@@ -1,4 +1,4 @@
-# NexusAPI
+# Nexus-api-wrapper
 
 A powerful and flexible TypeScript library for interacting with REST, GraphQL, and WebSocket APIs. Features include automatic retries, caching, and comprehensive error handling.
 
@@ -14,13 +14,13 @@ A powerful and flexible TypeScript library for interacting with REST, GraphQL, a
 ## Installation
 
 ```bash
-npm install nexusAPI 
+npm install nexus-api-wrapper
 ```
 
 ## Quick Start
 
 ```typescript
-import UniversalAPIWrapper from 'nexusAPI';
+import UniversalAPIWrapper from 'nexus-api-wrapper';
 
 // Create a new instance
 const api = new UniversalAPIWrapper({
