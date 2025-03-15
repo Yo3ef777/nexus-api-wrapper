@@ -1,5 +1,7 @@
 # Nexus API Wrapper 🚀 (Beta)
 
+![npm](https://img.shields.io/badge/status-BETA-orange)  
+
 ⚠️ **This version is still in beta!** It may contain bugs and unexpected changes.
 We look forward to your feedback to improve the final version. Please report comments, suggestions and issues in [Issues](https://github.com/Yo3ef777/nexus-api-wrapper/issues). 🙌
 
